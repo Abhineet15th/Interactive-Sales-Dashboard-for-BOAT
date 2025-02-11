@@ -46,3 +46,9 @@ The interactive dashboard includes the following **visualizations**:
 - Sales trends over time help in **forecasting future sales**.  
 - Regional and product-based sales insights guide **marketing strategies**.  
 - Different sales channels' performance is compared for **business growth analysis**.  
+
+### 📎 Repository Contents  
+- `BOAT sales data.xlsx` – Raw dataset  
+- `BOAT dashboard.xlsx` – Completed dashboard
+- `Dashboard image.png` – Dashboard image 
+- `README.md` – Project documentation 
